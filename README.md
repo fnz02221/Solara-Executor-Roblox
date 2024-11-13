@@ -39,7 +39,7 @@ Once you have installed Solara Executor, follow these steps to start using it:
 2. **Login:** Use your Roblox account details to login (if required).
 3. **Load a Script:** Choose the script you wish to execute from your library or create a new one.
 4. **Execute:** Click the execute button and let Solara handle the rest.
-5. **Enjoy:** Experience the enhanced features and smoother gameplay!
+5. **Enjoy:** Experience the enhanced features and smoother gameplay !
 
 ## Contribute
 We encourage community contributions to help make Solara Executor even better. If you have ideas, bug reports, or want to contribute to the codebase, feel free to submit a pull request. Your input is invaluable!
